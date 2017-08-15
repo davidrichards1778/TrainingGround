@@ -12,3 +12,4 @@ Saved
 *.xcworkspace
 .vs/TrainingGround/v15/Solution.VC.db-shm
 .vs/TrainingGround/v15/Solution.VC.db-wal
+*.ipch
